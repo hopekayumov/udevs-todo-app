@@ -3,8 +3,6 @@ import './app.css'
 import AppHeader from "../AppHeader";
 import SearchPanel from "../SearchPanel";
 import FilterPanel from "../FilterPanel";
-import TodoListItem from "../ToDoListItem/todo-list-item";
-import TodoList from "../ToDoList/todo-list";
 import ToDoList from "../ToDoList";
 import ItemAddForm from "../ToDoAddForm";
 
