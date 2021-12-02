@@ -1,4 +1,3 @@
-import React from "react";
 import './todo-list.css'
 import TodoListItem from "../ToDoListItem/todo-list-item";
 import ToDoListItem from "../ToDoListItem";

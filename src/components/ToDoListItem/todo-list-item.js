@@ -23,7 +23,7 @@ export default class TodoListItem extends Component {
                 onClick={onToggleImportant}>
                     <FontAwesomeIcon icon={faExclamation}></FontAwesomeIcon>
                 </button>
-                <button type='button' className='btn btn-outline-danger btn-sm   float-right'
+                <button type='button' className='btn btn-outline-danger btn-sm  float-right'
                         onClick={onDelete}>
                     <FontAwesomeIcon icon={faTrashAlt}></FontAwesomeIcon>
                 </button>

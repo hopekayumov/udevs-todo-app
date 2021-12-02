@@ -20,6 +20,7 @@ export default class FilterPanel extends Component {
                 >{label}</button>
             )
         })
+        console.log(buttons)
         return (
             <div className='btn-group btng'>
                 {buttons}
